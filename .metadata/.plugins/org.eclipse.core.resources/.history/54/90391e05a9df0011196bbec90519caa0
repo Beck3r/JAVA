@@ -1,0 +1,11 @@
+package com.krakedev;
+
+public class TestRestaurante {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Restaurante rest1 = new Restaurante();
+		Restaurante rest2 = new Restaurante();
+	}
+
+}

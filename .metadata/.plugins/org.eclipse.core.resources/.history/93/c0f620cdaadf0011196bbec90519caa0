@@ -1,0 +1,37 @@
+package com.krakedev;
+
+public class TestRestaurante {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Restaurante rest1 = new Restaurante();
+		Restaurante rest2 = new Restaurante();
+		
+		rest1.nombre="EL GRINGO";
+		rest1.direccion="Av. principal e interseccion";
+		rest1.calificacion=3;
+		
+		System.out.println("*+*+*+*+*+*+*+*+*+*+ RESTAURANTE 1 *+*+*+*+*+*+*+*+*+*+");
+		System.out.println("NOMBRE: "+rest1.nombre);
+		System.out.println("DIRECCION: "+rest1.direccion);
+		System.out.println("CALIFICACION: "+rest1.calificacion);
+		System.out.println("*+*+*+*+*+*+*+*+*+*+ FIN DE LA INF *+*+*+*+*+*+*+*+*+*+");
+		System.out.println("    ");
+		System.out.println("    ");
+		System.out.println("    ");
+		System.out.println("    ");
+		System.out.println("    ");
+		
+		
+		rest2.nombre="PORTONES";
+		rest2.direccion="Av. FRANCISCO DE ORELLANA INTERSECCION SAMANES";
+		rest2.calificacion=3;
+		
+		System.out.println("*+*+*+*+*+*+*+*+*+*+ RESTAURANTE 2 *+*+*+*+*+*+*+*+*+*+");
+		System.out.println("NOMBRE: "+rest2.nombre);
+		System.out.println("DIRECCION: "+rest2.direccion);
+		System.out.println("CALIFICACION: "+rest2.calificacion);
+		System.out.println("*+*+*+*+*+*+*+*+*+*+ FIN DE LA INF *+*+*+*+*+*+*+*+*+*+");
+	}
+
+}

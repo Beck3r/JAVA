@@ -1,0 +1,17 @@
+package com.krakedev;
+
+import java.nio.channels.Pipe.SourceChannel;
+
+public class VehiculoTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Vehiculo v;
+		v = new Vehiculo();
+		System.out.println("Hola mundo");
+		System.out.println(""+v.anio);
+		System.out.println(""+ v.marca);
+		System.out.println(""+ v.modelo);
+	}
+
+}

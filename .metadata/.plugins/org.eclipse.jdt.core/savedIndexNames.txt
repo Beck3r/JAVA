@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\propios\krakedev\modulo 2\introduccion a poo\proyectos\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2830911288.index
+4277645136.index

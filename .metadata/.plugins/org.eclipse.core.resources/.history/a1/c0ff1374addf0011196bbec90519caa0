@@ -1,0 +1,17 @@
+package com.krakedev;
+
+public class TestPlato {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Plato platoA = new Plato();
+		Plato platoB = new Plato();
+		Plato platoC = new Plato();
+		
+		platoA.nombre="";
+		platoA.tipo="";
+		platoA.precio=5.9f;
+		platoA.disponible=true;
+	}
+
+}

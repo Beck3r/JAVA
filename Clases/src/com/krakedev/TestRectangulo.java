@@ -30,7 +30,6 @@ public class TestRectangulo {
 		
 		System.out.println("Resultado Rectangulo 2: "+resultadoArea2);
 		
-		Rectangulo r3 = new Rectangulo();
 		
 
 		

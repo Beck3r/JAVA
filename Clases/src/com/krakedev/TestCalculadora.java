@@ -11,6 +11,17 @@ public class TestCalculadora {
 		
 		int valor2 =c1.restar(30, 15);
 		System.out.println("RESULTADO DE LA RESTA: "+valor2);
+		
+		double valor3 = c1.multiplicar(10, 5);
+		System.out.println("RESULTADO DE LA MULTIPLICACION: "+valor3);
+		
+		double valor4 = c1.dividir(10, 2);
+		System.out.println("RESULTADO DE LA DIVISION: "+valor4);
+		
+		double valor5 = c1.promediar(10, 8, 9);
+		System.out.println("RESULTADO DEL PROMEDIAR: "+valor5);
+		
+		c1.mostrarResultados();
 	}
 
 }

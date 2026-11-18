@@ -9,7 +9,7 @@ public class TestCalculadora {
 		System.out.println("RESULTADO DE LA SUMA: "+valor);
 		
 		
-		int valor2 =c1.restar(30, 15);
+		double valor2 =c1.restar(30, 15);
 		System.out.println("RESULTADO DE LA RESTA: "+valor2);
 		
 		double valor3 = c1.multiplicar(10, 5);
@@ -22,6 +22,15 @@ public class TestCalculadora {
 		System.out.println("RESULTADO DEL PROMEDIAR: "+valor5);
 		
 		c1.mostrarResultados();
+		
+		//evaluacion
+		
+		Calculadora c2 = new Calculadora();
+		double resultadoResta = c2.restar(100.5, 40.5);
+		System.out.println("Resultado Resta 2: " + resultadoResta);
+		
+		double descuento = c2.calcularDescuento(200.0, 15.0);
+		System.out.println("Valor de Descuento: " + descuento);
 	}
 
 }

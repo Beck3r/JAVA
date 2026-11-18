@@ -8,8 +8,8 @@ public class Calculadora {
 		return resultado;
 	}
 	
-	public int restar(int a, int b) {
-		int resultado;
+	public double restar(double a, double b) {
+		double resultado;
 		resultado = a - b;
 		return resultado;
 	}
@@ -33,6 +33,12 @@ public class Calculadora {
 		total = (valor1 + valor2 + valor3)/3;
 		
 		return total;
+	}
+	
+	public double calcularDescuento(double precio, double porcentajeDescuento) {
+		double descuento;
+		descuento =precio - (precio*porcentajeDescuento/100);
+		return descuento;
 	}
 	
 	public void mostrarResultados() {

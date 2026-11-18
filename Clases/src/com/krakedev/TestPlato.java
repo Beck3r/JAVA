@@ -8,6 +8,30 @@ public class TestPlato {
 		Plato platoB = new Plato();
 		Plato platoC = new Plato();
 		
+		
+		System.out.println("*+*+*+*+*+*+*+*+*+*+ RESTAURANTE 2 *+*+*+*+*+*+*+*+*+*+");
+		System.out.println("NOMBRE: "+platoA.nombre);
+		System.out.println("TIPO: "+platoA.tipo);
+		System.out.println("PRECIO: "+platoA.precio);
+		System.out.println("DISPONIBILIDAD: "+platoA.disponible);
+		System.out.println("*+*+*+*+*+*+*+*+*+*+ FIN DE LA INF *+*+*+*+*+*+*+*+*+*+");
+		System.out.println("    ");
+		System.out.println("    ");
+		System.out.println("*+*+*+*+*+*+*+*+*+*+ RESTAURANTE 2 *+*+*+*+*+*+*+*+*+*+");
+		System.out.println("NOMBRE: "+platoB.nombre);
+		System.out.println("TIPO: "+platoB.tipo);
+		System.out.println("PRECIO: "+platoB.precio);
+		System.out.println("DISPONIBILIDAD: "+platoB.disponible);
+		System.out.println("*+*+*+*+*+*+*+*+*+*+ FIN DE LA INF *+*+*+*+*+*+*+*+*+*+");
+		System.out.println("    ");
+		System.out.println("    ");
+		System.out.println("*+*+*+*+*+*+*+*+*+*+ RESTAURANTE 2 *+*+*+*+*+*+*+*+*+*+");
+		System.out.println("NOMBRE: "+platoC.nombre);
+		System.out.println("TIPO: "+platoC.tipo);
+		System.out.println("PRECIO: "+platoC.precio);
+		System.out.println("DISPONIBILIDAD: "+platoC.disponible);
+		System.out.println("*+*+*+*+*+*+*+*+*+*+ FIN DE LA INF *+*+*+*+*+*+*+*+*+*+");
+		
 		platoA.nombre="Ensalada de calamares asados con aderezo de limón";
 		platoA.tipo="Entrada";
 		platoA.precio=15.9f;

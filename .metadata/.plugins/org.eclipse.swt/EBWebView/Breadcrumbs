@@ -1,56 +1,30 @@
-1:23:50 Tab17 FinishNav190
-1:23:50 Tab17 PageLoad
-1:23:52 Tab17 StartNav191 #typed
-1:23:52 Tab17 FinishNav191
-1:23:52 Tab17 PageLoad
-1:23:56 Tab17 StartNav192 #typed
-1:23:56 Tab17 FinishNav192
-1:23:56 Tab17 PageLoad
-1:24:18 Tab17 StartNav193 #typed
-1:24:18 Tab17 FinishNav193
-1:24:18 Tab17 PageLoad
-1:24:23 Tab17 StartNav194 #typed
-1:24:23 Tab17 FinishNav194
-1:24:23 Tab17 PageLoad
-1:24:24 Tab17 StartNav195 #typed
-1:24:24 Tab17 FinishNav195
-1:24:24 Tab17 PageLoad
-1:24:55 Tab17 StartNav196 #typed
-1:24:55 Tab17 FinishNav196
-1:24:55 Tab17 PageLoad
-1:24:57 Tab17 StartNav197 #typed
-1:24:57 Tab17 FinishNav197
-1:24:57 Tab17 PageLoad
-1:24:58 Tab17 StartNav198 #typed
-1:24:58 Tab17 FinishNav198
-1:24:58 Tab17 PageLoad
-1:25:00 Tab17 StartNav199 #typed
-1:25:00 Tab17 FinishNav199
-1:25:00 Tab17 PageLoad
-1:25:04 Tab17 StartNav200 #typed
-1:25:04 Tab17 FinishNav200
-1:25:04 Tab17 PageLoad
-1:25:06 Tab17 StartNav201 #typed
-1:25:06 Tab17 FinishNav201
-1:25:06 Tab17 PageLoad
-1:26:15 Tab17 StartNav202 #typed
-1:26:15 Tab17 FinishNav202
-1:26:15 Tab17 PageLoad
-1:26:32 Tab17 StartNav203 #typed
-1:26:32 Tab17 FinishNav203
-1:26:32 Tab17 PageLoad
-1:26:33 Tab17 StartNav204 #typed
-1:26:33 Tab17 FinishNav204
-1:26:33 Tab17 PageLoad
-1:26:34 Tab17 StartNav205 #typed
-1:26:34 Tab17 FinishNav205
-1:26:34 Tab17 PageLoad
-1:26:35 Tab17 StartNav206 #typed
-1:26:35 Tab17 FinishNav206
-1:26:35 Tab17 PageLoad
-1:26:36 Tab17 StartNav207 #typed
-1:26:36 Tab17 FinishNav207
-1:26:36 Tab17 PageLoad
-1:27:24 Tab17 StartNav208 #typed
-1:27:24 Tab17 FinishNav208
-1:27:24 Tab17 PageLoad
+1:33:24 Microsoft.Browser_Removed
+1:33:24 Widget Closed: WebView2MinimalFrame
+1:33:35 Microsoft.Shutdown.OnWindowClosing
+0:00:00 Startup
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpEphemeralProfiles
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpDeletedProfiles
+0:00:00 Microsoft.BrowserList.AddBrowser
+0:00:00 Browser1 Insert active Tab1 at 0
+0:00:00 Tab1 StartNav1 #auto_toplevel
+0:00:00 Microsoft.BrowserList.AddBrowser
+0:00:00 Browser2 Insert active Tab2 at 0
+0:00:00 Tab2 StartNav2 #auto_toplevel
+0:00:00 Microsoft.BrowserList.AddBrowser
+0:00:00 Browser3 Insert active Tab3 at 0
+0:00:00 Tab3 StartNav3 #auto_toplevel
+0:00:00 Tab1 StartNav4 #typed
+0:00:00 Tab2 StartNav5 #typed
+0:00:00 Tab3 StartNav6 #typed
+0:00:00 Tab2 FinishNav2
+0:00:00 Tab2 PageLoad
+0:00:00 Tab1 FinishNav1
+0:00:00 Tab1 PageLoad
+0:00:00 Tab3 FinishNav3
+0:00:00 Tab3 PageLoad
+0:00:00 Tab1 FinishNav4
+0:00:00 Tab1 PageLoad
+0:00:00 Tab3 FinishNav6
+0:00:00 Tab2 FinishNav5
+0:00:00 Tab2 PageLoad
+0:00:00 Tab3 PageLoad

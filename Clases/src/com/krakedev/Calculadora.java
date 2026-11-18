@@ -34,4 +34,8 @@ public class Calculadora {
 		
 		return total;
 	}
+	
+	public void mostrarResultados() {
+		System.out.println("Horita no joven. Salí al almuerzo. Regreso en 15 minutos");
+	}
 }

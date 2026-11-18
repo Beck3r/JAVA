@@ -8,4 +8,10 @@ public class Rectangulo {
 		int area= base * altura;
 		return area;
 	}
+	
+	
+	public double calcularPerimetro() {
+		double perimetro = base + altura + base + altura;
+		return perimetro;
+	}
 }

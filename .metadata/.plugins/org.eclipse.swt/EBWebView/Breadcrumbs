@@ -1,170 +1,45 @@
-0:29:57 Microsoft.Shutdown.OnWindowClosing_DeleteScheduled
-0:29:57 Microsoft.Browser_Removed
-0:29:57 Widget Closed: WebView2MinimalFrame
-0:31:56 Microsoft.BrowserList.AddBrowser
-0:31:56 Browser9 Insert active Tab9 at 0
-0:31:56 Tab9 StartNav22 #auto_toplevel
-0:31:56 Tab9 StartNav23 #typed
-0:31:56 Tab9 FinishNav22
-0:31:56 Tab9 PageLoad
-0:31:56 Tab9 FinishNav23
-0:31:56 Tab9 PageLoad
-0:31:56 Tab9 StartNav24 #typed
-0:31:56 Tab9 FinishNav24
-0:31:56 Tab9 PageLoad
-0:32:01 Tab9 StartNav25 #typed
-0:32:01 Tab9 FinishNav25
-0:32:01 Tab9 PageLoad
-0:32:01 Tab9 StartNav26 #typed
-0:32:01 Tab9 FinishNav26
-0:32:01 Tab9 PageLoad
-0:32:06 Tab9 StartNav27 #typed
-0:32:06 Tab9 FinishNav27
-0:32:06 Tab9 PageLoad
-0:32:08 Tab9 StartNav28 #typed
-0:32:08 Tab9 FinishNav28
-0:32:08 Tab9 PageLoad
-0:33:01 Tab9 StartNav29 #typed
-0:33:01 Tab9 FinishNav29
-0:33:01 Tab9 PageLoad
-0:34:13 Tab9 StartNav30 #typed
-0:34:13 Tab9 FinishNav30
-0:34:13 Tab9 PageLoad
-0:34:13 Tab9 StartNav31 #typed
-0:34:13 Tab9 FinishNav31
-0:34:13 Tab9 PageLoad
-0:34:51 Tab9 StartNav32 #typed
-0:34:51 Tab9 FinishNav32
-0:34:51 Tab9 PageLoad
-0:35:37 Tab9 StartNav33 #typed
-0:35:37 Tab9 FinishNav33
-0:35:37 Tab9 PageLoad
-0:37:27 Microsoft.BrowserList.AddBrowser
-0:37:27 Browser10 Insert active Tab10 at 0
-0:37:27 Tab10 StartNav34 #auto_toplevel
-0:37:27 Tab10 StartNav35 #typed
-0:37:27 Tab10 FinishNav34
-0:37:27 Tab10 PageLoad
-0:37:27 Tab10 FinishNav35
-0:37:27 Tab10 PageLoad
-0:37:27 Tab10 StartNav36 #typed
-0:37:27 Tab10 FinishNav36
-0:37:27 Tab10 PageLoad
-0:37:29 Tab10 StartNav37 #typed
-0:37:29 Tab10 FinishNav37
-0:37:29 Tab10 PageLoad
-0:37:29 Tab10 StartNav38 #typed
-0:37:29 Tab10 FinishNav38
-0:37:29 Tab10 PageLoad
-0:37:42 Tab10 StartNav39 #typed
-0:37:42 Tab10 FinishNav39
-0:37:42 Tab10 PageLoad
-0:37:46 Tab10 StartNav40 #typed
-0:37:46 Tab10 FinishNav40
-0:37:46 Tab10 PageLoad
-0:38:00 Tab10 StartNav41 #typed
-0:38:00 Tab10 FinishNav41
-0:38:00 Tab10 PageLoad
-0:38:00 Tab10 StartNav42 #typed
-0:38:00 Tab10 FinishNav42
-0:38:00 Tab10 PageLoad
-0:38:02 Tab10 StartNav43 #typed
-0:38:02 Tab10 FinishNav43
-0:38:02 Tab10 PageLoad
-0:38:03 Tab10 StartNav44 #typed
-0:38:03 Tab10 FinishNav44
-0:38:03 Tab10 PageLoad
-0:38:06 Tab10 StartNav45 #typed
-0:38:06 Tab10 FinishNav45
-0:38:06 Tab10 PageLoad
-0:38:21 Tab10 StartNav46 #typed
-0:38:21 Tab10 FinishNav46
-0:38:21 Tab10 PageLoad
-0:38:30 Tab10 StartNav47 #typed
-0:38:30 Tab10 FinishNav47
-0:38:30 Tab10 PageLoad
-0:38:30 Tab10 StartNav48 #typed
-0:38:30 Tab10 FinishNav48
-0:38:30 Tab10 PageLoad
-0:38:42 Tab10 StartNav49 #typed
-0:38:42 Tab10 FinishNav49
-0:38:42 Tab10 PageLoad
-0:38:51 Tab10 StartNav50 #typed
-0:38:51 Tab10 FinishNav50
-0:38:51 Tab10 PageLoad
-0:39:34 Tab10 StartNav51 #typed
-0:39:34 Tab10 FinishNav51
-0:39:34 Tab10 PageLoad
-0:42:57 Microsoft.BrowserList.AddBrowser
-0:42:57 Browser11 Insert active Tab11 at 0
-0:42:57 Tab11 StartNav52 #auto_toplevel
-0:42:57 Tab11 StartNav53 #typed
-0:42:57 Tab11 FinishNav52
-0:42:57 Tab11 PageLoad
-0:42:57 Tab11 FinishNav53
-0:42:57 Tab11 PageLoad
-0:42:58 Tab11 StartNav54 #typed
-0:42:58 Tab11 FinishNav54
-0:42:58 Tab11 PageLoad
-0:42:59 Tab11 StartNav55 #typed
-0:42:59 Tab11 FinishNav55
-0:42:59 Tab11 PageLoad
-0:42:59 Tab11 StartNav56 #typed
-0:42:59 Tab11 FinishNav56
-0:42:59 Tab11 PageLoad
-0:43:03 Tab11 StartNav57 #typed
-0:43:03 Tab11 FinishNav57
-0:43:03 Tab11 PageLoad
-0:43:06 Tab11 StartNav58 #typed
-0:43:06 Tab11 FinishNav58
-0:43:06 Tab11 PageLoad
-0:43:16 Tab11 StartNav59 #typed
-0:43:16 Tab11 FinishNav59
-0:43:16 Tab11 PageLoad
-0:43:44 Tab11 StartNav60 #typed
-0:43:44 Tab11 FinishNav60
-0:43:44 Tab11 PageLoad
-0:45:46 Tab11 StartNav61 #typed
-0:45:46 Tab11 FinishNav61
-0:45:46 Tab11 PageLoad
-0:50:18 Microsoft.BrowserList.AddBrowser
-0:50:18 Browser12 Insert active Tab12 at 0
-0:50:18 Tab12 StartNav62 #auto_toplevel
-0:50:18 Tab12 StartNav63 #typed
-0:50:18 Tab12 FinishNav62
-0:50:18 Tab12 PageLoad
-0:50:18 Tab12 FinishNav63
-0:50:18 Tab12 StartNav64 #typed
-0:50:18 Tab12 PageLoad
-0:50:18 Tab12 FinishNav64
-0:50:18 Tab12 PageLoad
-0:50:26 Tab12 StartNav65 #typed
-0:50:26 Tab12 FinishNav65
-0:50:26 Tab12 PageLoad
-0:50:34 Tab12 StartNav66 #typed
-0:50:34 Tab12 FinishNav66
-0:50:34 Tab12 PageLoad
-0:50:41 Tab12 StartNav67 #typed
-0:50:41 Tab12 FinishNav67
-0:50:41 Tab12 PageLoad
-0:50:50 Tab12 StartNav68 #typed
-0:50:50 Tab12 FinishNav68
-0:50:50 Tab12 PageLoad
-0:51:38 Tab12 StartNav69 #typed
-0:51:38 Tab12 FinishNav69
-0:51:38 Tab12 PageLoad
-0:52:18 Tab11 StartNav70 #typed
-0:52:18 Tab11 FinishNav70
-0:52:18 Tab11 PageLoad
-0:53:12 Tab12 StartNav71 #typed
-0:53:12 Tab12 FinishNav71
-0:53:12 Tab12 PageLoad
-0:53:44 Tab11 StartNav72 #typed
-0:53:44 Tab11 FinishNav72
-0:53:44 Tab11 PageLoad
-0:53:45 Tab11 StartNav73 #typed
-0:53:45 Tab11 FinishNav73
-0:53:45 Tab11 PageLoad
-0:53:49 Tab11 StartNav74 #typed
-0:53:49 Tab11 FinishNav74
-0:53:49 Tab11 PageLoad
+1:04:19 Tab14 PageLoad
+1:04:19 Tab14 FinishNav108
+1:04:19 Tab14 PageLoad
+1:04:19 Tab14 StartNav109 #typed
+1:04:19 Tab14 FinishNav109
+1:04:19 Tab14 PageLoad
+1:04:36 Tab14 StartNav110 #typed
+1:04:36 Tab14 FinishNav110
+1:04:36 Tab14 PageLoad
+1:04:37 Tab14 StartNav111 #typed
+1:04:37 Tab14 FinishNav111
+1:04:37 Tab14 PageLoad
+1:04:38 Tab14 StartNav112 #typed
+1:04:38 Tab14 FinishNav112
+1:04:38 Tab14 PageLoad
+1:04:39 Tab14 StartNav113 #typed
+1:04:39 Tab14 FinishNav113
+1:04:39 Tab14 PageLoad
+1:04:45 Tab14 StartNav114 #typed
+1:04:45 Tab14 FinishNav114
+1:04:45 Tab14 PageLoad
+1:04:49 Tab14 StartNav115 #typed
+1:04:49 Tab14 FinishNav115
+1:04:49 Tab14 PageLoad
+1:04:54 Tab14 StartNav116 #typed
+1:04:54 Tab14 FinishNav116
+1:04:54 Tab14 PageLoad
+1:04:54 Tab14 StartNav117 #typed
+1:04:54 Tab14 FinishNav117
+1:04:54 Tab14 PageLoad
+1:04:58 Tab14 StartNav118 #typed
+1:04:58 Tab14 FinishNav118
+1:04:58 Tab14 PageLoad
+1:04:58 Tab14 StartNav119 #typed
+1:04:58 Tab14 FinishNav119
+1:04:58 Tab14 PageLoad
+1:05:14 Tab14 StartNav120 #typed
+1:05:14 Tab14 FinishNav120
+1:05:14 Tab14 PageLoad
+1:05:18 Tab14 StartNav121 #typed
+1:05:18 Tab14 FinishNav121
+1:05:18 Tab14 PageLoad
+1:05:19 Tab14 StartNav122 #typed
+1:05:19 Tab14 FinishNav122
+1:05:19 Tab14 PageLoad

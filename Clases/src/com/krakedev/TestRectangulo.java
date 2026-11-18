@@ -12,6 +12,8 @@ public class TestRectangulo {
 		int resultadoArea;
 		
 		resultadoArea=r1.calcularArea();
+		double resultadoPerimetro = r1.calcularPerimetro();
+		System.out.println("Resultado Rectangulo Perimetro: "+resultadoPerimetro);
 		
 		System.out.println("Resultado: "+resultadoArea);
 		
@@ -23,8 +25,15 @@ public class TestRectangulo {
 		int resultadoArea2;
 				
 		resultadoArea2=r2.calcularArea();
+		double resultadoPerimetro2 = r2.calcularPerimetro();
+		System.out.println("Resultado Rectangulo Perimetro 2: "+resultadoPerimetro2);
 		
 		System.out.println("Resultado Rectangulo 2: "+resultadoArea2);
+		
+		Rectangulo r3 = new Rectangulo();
+		
+
+		
 	}
 
 }

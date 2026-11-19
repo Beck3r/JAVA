@@ -9,39 +9,39 @@ public class TestRestaurante {
 		
 		System.out.println("    ");		
 		System.out.println("*+*+*+*+*+*+*+*+*+*+ RESTAURANTE 1 *+*+*+*+*+*+*+*+*+*+");
-		System.out.println("NOMBRE: "+rest1.nombre);
-		System.out.println("DIRECCION: "+rest1.direccion);
-		System.out.println("CALIFICACION: "+rest1.calificacion+ " ESTRELLAS");
+		System.out.println("NOMBRE: "+rest1.getNombre());
+		System.out.println("DIRECCION: "+rest1.getDireccion());
+		System.out.println("CALIFICACION: "+rest1.getCalificacion()+ " ESTRELLAS");
 		System.out.println("*+*+*+*+*+*+*+*+*+*+ FIN DE LA INF *+*+*+*+*+*+*+*+*+*+");
 		
-		rest1.nombre="EL GRINGO";
-		rest1.direccion="Av. principal e interseccion";
-		rest1.calificacion=3;
+		rest1.setNombre("EL GRINGO");
+		rest1.setDireccion("Av. principal e interseccion");
+		rest1.setCalificacion(3);
 		
 		System.out.println("    ");		
 		System.out.println("*+*+*+*+*+*+*+*+*+*+ RESTAURANTE 1 *+*+*+*+*+*+*+*+*+*+");
-		System.out.println("NOMBRE: "+rest1.nombre);
-		System.out.println("DIRECCION: "+rest1.direccion);
-		System.out.println("CALIFICACION: "+rest1.calificacion+ " ESTRELLAS");
+		System.out.println("NOMBRE: "+rest1.getNombre());
+		System.out.println("DIRECCION: "+rest1.getDireccion());
+		System.out.println("CALIFICACION: "+rest1.getCalificacion()+ " ESTRELLAS");
 		System.out.println("*+*+*+*+*+*+*+*+*+*+ FIN DE LA INF *+*+*+*+*+*+*+*+*+*+");
 		
 		System.out.println("    ");
 		System.out.println("    ");
 
 		System.out.println("*+*+*+*+*+*+*+*+*+*+ RESTAURANTE 2 *+*+*+*+*+*+*+*+*+*+");
-		System.out.println("NOMBRE: "+rest2.nombre);
-		System.out.println("DIRECCION: "+rest2.direccion);
-		System.out.println("CALIFICACION: "+rest2.calificacion+ " ESTRELLAS");
+		System.out.println("NOMBRE: "+rest2.getNombre());
+		System.out.println("DIRECCION: "+rest2.getDireccion());
+		System.out.println("CALIFICACION: "+rest2.getCalificacion()+ " ESTRELLAS");
 		System.out.println("*+*+*+*+*+*+*+*+*+*+ FIN DE LA INF *+*+*+*+*+*+*+*+*+*+");
 		
-		rest2.nombre="PORTONES";
-		rest2.direccion="Av. FRANCISCO DE ORELLANA INTERSECCION SAMANES";
-		rest2.calificacion=5;
+		rest2.setNombre("PORTONES");
+		rest2.setDireccion("Av. FRANCISCO DE ORELLANA INTERSECCION SAMANES");
+		rest2.setCalificacion(5);
 		
 		System.out.println("*+*+*+*+*+*+*+*+*+*+ RESTAURANTE 2 *+*+*+*+*+*+*+*+*+*+");
-		System.out.println("NOMBRE: "+rest2.nombre);
-		System.out.println("DIRECCION: "+rest2.direccion);
-		System.out.println("CALIFICACION: "+rest2.calificacion+ " ESTRELLAS");
+		System.out.println("NOMBRE: "+rest2.getNombre());
+		System.out.println("DIRECCION: "+rest2.getDireccion());
+		System.out.println("CALIFICACION: "+rest2.getCalificacion()+ " ESTRELLAS");
 		System.out.println("*+*+*+*+*+*+*+*+*+*+ FIN DE LA INF *+*+*+*+*+*+*+*+*+*+");
 	}
 

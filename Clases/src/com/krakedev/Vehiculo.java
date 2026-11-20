@@ -5,6 +5,22 @@ public class Vehiculo {
 	private String modelo;
 	private String anio;
 	private double valor;
+	
+	public Vehiculo() {
+		System.out.println("Ingresa al metodo constructor");
+	}
+	
+	public Vehiculo(String marca, String modelo, String anio) {
+		super();
+		this.marca = marca;
+		this.modelo = modelo;
+		this.anio = anio;
+	}
+
+	public Vehiculo(String marca) {
+		this.marca = marca;
+	}
+	
 	public String getMarca() {
 		return marca;
 	}

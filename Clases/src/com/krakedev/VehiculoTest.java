@@ -39,6 +39,19 @@ public class VehiculoTest {
 		System.out.println("Año: "+v2.getAnio());
 		System.out.println("Marca: "+ v2.getMarca());
 		System.out.println("Modelo: "+ v2.getModelo());
+		
+		
+		Vehiculo v3 = new Vehiculo("Chevrolet");
+		System.out.println("<<<<<<<<<<<<<<<<Vehiculo 3: Valores Asignados!!>>>>>>>>>>>>>>>>");
+		System.out.println("Año: "+v3.getAnio());
+		System.out.println("Marca: "+ v3.getMarca());
+		System.out.println("Modelo: "+ v3.getModelo());
+		
+		Vehiculo v4 = new Vehiculo("Toyota", "Familiar", "2024");
+		System.out.println("<<<<<<<<<<<<<<<<Vehiculo 4: Valores Asignados!!>>>>>>>>>>>>>>>>");
+		System.out.println("Año: "+v4.getAnio());
+		System.out.println("Marca: "+ v4.getMarca());
+		System.out.println("Modelo: "+ v4.getModelo());
 	}
 
 }

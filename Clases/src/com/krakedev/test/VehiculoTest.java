@@ -1,6 +1,6 @@
-package com.krakedev;
+package com.krakedev.test;
 
-
+import com.krakedev.Vehiculo;
 public class VehiculoTest {
 
 	public static void main(String[] args) {

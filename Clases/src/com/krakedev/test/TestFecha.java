@@ -1,5 +1,5 @@
-package com.krakedev;
-
+package com.krakedev.test;
+import com.krakedev.Fecha;
 public abstract class TestFecha {
 
 	public static void main(String[] args) {
